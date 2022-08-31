@@ -124,7 +124,7 @@ Project Link: [Calculator](https://github.com/Melik-B/Calculator)
 
 <br>
 <br>
-<h3 align="left">Driving License Test</h3>
+<h3 align="left">3) Driving License Test</h3>
 <hr>
 <img align="center" src="https://user-images.githubusercontent.com/76618468/187672675-cfc14d9d-bc97-4fda-aa64-1c7de4a6f148.jpg">
 <hr>
@@ -176,7 +176,7 @@ Project Link: [Driving License Test](https://github.com/Melik-B/DrivingLicenseTe
 
 <br>
 <br>
-<h3 align="left">Factorial</h3>
+<h3 align="left">4) Factorial</h3>
 <hr>
 <img align="center" src="https://user-images.githubusercontent.com/76618468/187666287-bf5c5365-46fd-4bd8-8ab9-fd7f3af70544.jpg">
 <hr>
@@ -209,3 +209,57 @@ Hello sir, this acid console app is factorial if you say calculation factorial, 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
 
 Project Link: [Factorial](https://github.com/Melik-B/Factorial)
+
+<br>
+<br>
+<h3 align="left">5) Find A Name</h3>
+<hr>
+<img align="center" src="https://user-images.githubusercontent.com/76618468/187662281-6fa84cc7-187e-48ca-8385-81c4ed0ce1fa.jpg">
+<hr>
+<img align="center" src="https://user-images.githubusercontent.com/76618468/187662810-bec13dcb-3870-4259-88fd-0e13c58e6cef.jpg">
+
+<h3>Find A Name :</h3>
+
+Hello, this simple console project you have seen will search the names written in a list and show whether they are in the list.
+
+```bash
+  eg: Post Malone
+      21 Savage
+      The Weekend
+      Ufo 361
+      6ix9ine
+      Pop Smoke
+      Drake
+      Travis Scott
+      Search a name: Drake
+      Drake Found.
+  OR
+  eg: Post Malone
+      21 Savage
+      The Weekend
+      Ufo 361
+      6ix9ine
+      Pop Smoke
+      Drake
+      Travis Scott
+      Search a name: Elon Musk
+      Elon Musk Not Found.
+```
+
+<b>ALGORITHM</b>
+
+- Start.
+- The user is prompted for a name.
+- The name entered by the user is searched in the name list.
+- If the name entered by the user is in the list, the name found is printed on the screen.
+
+<h3>What will you learn from this project</h3>
+
+- [x] Conditions
+  - [x] Loops
+
+<h3>Built With</h3>
+<img src="https://user-images.githubusercontent.com/76618468/185224412-9aa949ad-6e10-4304-9385-8ca74633934b.png" alt="csharp" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
+
+Project Link: [Find A Name](https://github.com/Melik-B/FindAName)
