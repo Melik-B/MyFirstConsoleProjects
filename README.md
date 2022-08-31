@@ -503,7 +503,7 @@ Project Link: [Palindrome](https://github.com/Melik-B/palindrome)
 
 <br>
 <br>
-<h3 align="left">Rock Paper Scissors</h3>
+<h3 align="left">12) Rock Paper Scissors</h3>
 <hr>
 <img align="center" src="https://user-images.githubusercontent.com/76618468/185474410-9946b71c-e627-4a51-9117-749a7974b300.jpg">
 <hr>
