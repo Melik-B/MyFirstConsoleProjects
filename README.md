@@ -124,7 +124,7 @@ Project Link: [Calculator](https://github.com/Melik-B/Calculator)
 
 <br>
 <br>
-<h3 align="left">3) Driving License Test</h3>
+<h3 align="left">4) Driving License Test</h3>
 <hr>
 <img align="center" src="https://user-images.githubusercontent.com/76618468/187672675-cfc14d9d-bc97-4fda-aa64-1c7de4a6f148.jpg">
 <hr>
@@ -176,7 +176,7 @@ Project Link: [Driving License Test](https://github.com/Melik-B/DrivingLicenseTe
 
 <br>
 <br>
-<h3 align="left">4) Factorial</h3>
+<h3 align="left">5) Factorial</h3>
 <hr>
 <img align="center" src="https://user-images.githubusercontent.com/76618468/187666287-bf5c5365-46fd-4bd8-8ab9-fd7f3af70544.jpg">
 <hr>
@@ -212,7 +212,7 @@ Project Link: [Factorial](https://github.com/Melik-B/Factorial)
 
 <br>
 <br>
-<h3 align="left">5) Find A Name</h3>
+<h3 align="left">6) Find A Name</h3>
 <hr>
 <img align="center" src="https://user-images.githubusercontent.com/76618468/187662281-6fa84cc7-187e-48ca-8385-81c4ed0ce1fa.jpg">
 <hr>
