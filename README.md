@@ -459,7 +459,7 @@ Project Link: [Is The Number Prime](https://github.com/Melik-B/IsTheNumberPrime)
 
 <br>
 <br>
-<h3 align="left">Palindrome</h3>
+<h3 align="left">11) Palindrome</h3>
 <hr>
 <img align="center" src="https://user-images.githubusercontent.com/76618468/186225303-b4288675-e5b8-4bc7-99d6-5fd3a246f45a.jpg">
 <hr>
