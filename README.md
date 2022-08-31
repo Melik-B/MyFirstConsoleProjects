@@ -567,3 +567,42 @@ Hello sir, with this console project, you can draw 6 different shapes using loop
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
 
 Project Link: [Shapes](https://github.com/Melik-B/shapes)
+
+<br>
+<br>
+<h3 align="left">14) Uppercase Lowercase</h3>
+<hr>
+<img align="center" src="https://user-images.githubusercontent.com/76618468/185482132-e824c158-e414-4358-b084-79516bf74eca.jpg">
+<hr>
+<img align="center" src="https://user-images.githubusercontent.com/76618468/185482637-8a7bb60a-a3a1-4c2c-84d9-5a3d3951e516.jpg">
+
+<h3>Uppercase Lowercase :</h3>
+
+First of all, the purpose of this <b>SIMPLE CONSOLE PROJECT</b> is to organize mixed letter sentences and convert only the <b>first letter to UPPERCASE</b> and <b>the other letters to LOWERCASE.</b>
+
+```bash
+  eg: mY firSt cONSole pROjeCTS => My first console projects
+```
+
+<b>ALGORITHM</b>
+
+- Start.
+- User can login again and again until they press the letter <b>'q'</b>, when they press the letter <b>'q'</b> they <b>EXIT</b> the application.
+- The user is prompted to enter a word.
+- <b>Capitalize</b> the first letter of the word entered by the user.
+- All letters <b>except the FIRST letter</b> of the word entered by the user are made lowercase.
+- The word entered by the user is printed on the screen with the first letter capitalized and the other letters small.
+
+<h3>What will you learn from this project</h3>
+
+- [x] Conditions
+- [x] Methods
+    - [x] Substring Command
+    - [x] ToLower Command
+    - [x] ToUpper Command
+
+<h3>Built With</h3>
+<img src="https://user-images.githubusercontent.com/76618468/185224412-9aa949ad-6e10-4304-9385-8ca74633934b.png" alt="csharp" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
+
+Project Link: [UpperCase LowerCase](https://github.com/Melik-B/UppercaseLowercase)
