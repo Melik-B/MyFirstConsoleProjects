@@ -1,4 +1,4 @@
-<h1 align="center">My First Console Projects</h1>
+<h1 align="center">My First Console Project</h1>
 <h3 align="left">1) Age Calculation</h3>
 <img align="center" src="https://user-images.githubusercontent.com/76618468/187696318-ae099492-3029-4f85-a30f-d3e1da094699.jpg">
 <hr>
